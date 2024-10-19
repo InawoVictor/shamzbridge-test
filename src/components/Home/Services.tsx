@@ -1,4 +1,4 @@
-import React from 'react'
+
 import ServicesCard from './ServicesCard'
 
 const services = [
